@@ -9,7 +9,7 @@ dependencies:
  - xarray
  - netcdf4
  - seabird
- - ctd
+ - ctd==1.4.1
  - jupyterlab
  - matplotlib
  - cartopy
